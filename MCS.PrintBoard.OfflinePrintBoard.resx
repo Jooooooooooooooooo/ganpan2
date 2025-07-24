@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="textBox17.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3751967</value></data>
+  <data name="line7.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="textBox17.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB2.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.1625984</value></data>
+  <data name="txtLINE.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5539374</value></data>
+  <data name="txtMADE_BY.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.25708658</value></data>
+  <data name="txtLINE.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="txtSheetID.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 11.25pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="txtSheetID.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.3500004</value></data>
+  <data name="txtWORKER_ORDER1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1574804</value></data>
+  <data name="line10.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.180709</value></data>
+  <data name="txtWO_QUANTITY1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1574801</value></data>
+  <data name="txtWO_QUANTITY2.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.390945</value></data>
+  <data name="txtWO_QUANTITY3.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6035434</value></data>
+  <data name="txtWO_QUANTITY4.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8240159</value></data>
+  <data name="txtWO_QUANTITY5.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0405514</value></data>
+  <data name="txtMADE_BY.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="label12.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>5.3771663</value></data>
+  <data name="label12.Text" xml:space="preserve"><value>Model.Suffix</value></data>
+  <data name="label10.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.21259846</value></data>
+  <data name="lblB5.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24724388</value></data>
+  <data name="lblB5.Style" xml:space="preserve"><value>font-size: 11.25pt; text-align: center; vertical-align: middle</value></data>
+  <data name="shape1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>7.2244096</value></data>
+  <data name="textBox9.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5996064</value></data>
+  <data name="textBox8.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6035434</value></data>
+  <data name="textBox5.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.3909448</value></data>
+  <data name="textBox7.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6035434</value></data>
+  <data name="txtLOCATOR_GROUP.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox4.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.368504</value></data>
+  <data name="textBox3.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.390945</value></data>
+  <data name="txtLOCATOR_GROUP.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5539372</value></data>
+  <data name="label10.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.6098428</value></data>
+  <data name="label10.Text" xml:space="preserve"><value>Qty</value></data>
+  <data name="textBox2.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.3791339</value></data>
+  <data name="label13.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.6279535</value></data>
+  <data name="label13.Text" xml:space="preserve"><value>W/O</value></data>
+  <data name="line13.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.900787</value></data>
+  <data name="txtPROD_SEQ_TO1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1574805</value></data>
+  <data name="label3.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="txtPST.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6905513</value></data>
+  <data name="txtPST.Style" xml:space="preserve"><value>background-color: Transparent; font-family: Arial Narrow; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: top; ddo-char-set: 1</value></data>
+  <data name="label11.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="label11.Text" xml:space="preserve"><value>Prod Seq No</value></data>
+  <data name="txtPrintedDate.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.22204703</value></data>
+  <data name="textBox9.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox9.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6397636</value></data>
+  <data name="textBox17.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="label11.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.9082675</value></data>
+  <data name="label11.Style" xml:space="preserve"><value>font-size: 9.75pt; text-align: center</value></data>
+  <data name="txtINSPECTION_FLAG.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6346459</value></data>
+  <data name="txtINSPECTION_FLAG.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB4.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="textBox4.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6397636</value></data>
+  <data name="textBox4.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="label17.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.494095</value></data>
+  <data name="label17.Text" xml:space="preserve"><value>Printed by MCS</value></data>
+  <data name="label7.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="label13.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="txtWO_QUANTITY4.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox9.Text" xml:space="preserve"><value>MODEL_SUFFIX3</value></data>
+  <data name="textBox9.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.9842525</value></data>
+  <data name="txtWO_QUANTITY4.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433027</value></data>
+  <data name="label15.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.4240158</value></data>
+  <data name="label15.Text" xml:space="preserve"><value>Printed Date : </value></data>
+  <data name="textBox13.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox13.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433054</value></data>
+  <data name="label4.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="label4.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="txtTOTAL_QUANTITY.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.2</value></data>
+  <data name="lblB3.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox8.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox8.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.6236224</value></data>
+  <data name="label17.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox5.Text" xml:space="preserve"><value>WORKER_ORDER2</value></data>
+  <data name="textBox5.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.643701</value></data>
+  <data name="barcode.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.060236223</value></data>
+  <data name="line11.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.003937006</value></data>
+  <data name="txtPROD_SEQ_TO1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="textBox7.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox7.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="line9.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="label7.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="txtWO_QUANTITY1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="textBox4.Text" xml:space="preserve"><value>MODEL_SUFFIX2</value></data>
+  <data name="textBox4.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.9842525</value></data>
+  <data name="lblB1.Style" xml:space="preserve"><value>font-size: 11.25pt; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24724388</value></data>
+  <data name="barcode.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8104167</value></data>
+  <data name="textBox19.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0405514</value></data>
+  <data name="textBox18.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0405514</value></data>
+  <data name="textBox15.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8240157</value></data>
+  <data name="textBox14.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8200788</value></data>
+  <data name="textBox17.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0405514</value></data>
+  <data name="textBox20.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtWORKER_ORDER1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.86692905</value></data>
+  <data name="textBox10.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6035433</value></data>
+  <data name="textBox13.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8240159</value></data>
+  <data name="txtWORKER_ORDER1.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox12.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8240159</value></data>
+  <data name="line12.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.9019682</value></data>
+  <data name="line7.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.329134</value></data>
+  <data name="txtWO_QUANTITY4.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="label11.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.20866138</value></data>
+  <data name="label2.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox3.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox3.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.6236224</value></data>
+  <data name="textBox18.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="label10.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.43897647</value></data>
+  <data name="label10.Style" xml:space="preserve"><value>font-size: 9.75pt; text-align: center</value></data>
+  <data name="textBox5.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8669291</value></data>
+  <data name="label2.Text" xml:space="preserve"><value>Qty</value></data>
+  <data name="label2.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3366142</value></data>
+  <data name="textBox5.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox9.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="label6.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="label3.Text" xml:space="preserve"><value>Made by</value></data>
+  <data name="label3.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3366142</value></data>
+  <data name="label15.Style" xml:space="preserve"><value>font-size: 11.25pt; font-weight: normal; vertical-align: middle</value></data>
+  <data name="label15.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1401573</value></data>
+  <data name="textBox2.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox2.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="textBox20.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0405512</value></data>
+  <data name="label12.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.926378</value></data>
+  <data name="label10.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.926378</value></data>
+  <data name="label13.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.926378</value></data>
+  <data name="label11.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.926378</value></data>
+  <data name="label17.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.5007875</value></data>
+  <data name="lblB1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="label15.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.2590554</value></data>
+  <data name="label1.Text" xml:space="preserve"><value>Line</value></data>
+  <data name="label1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3366142</value></data>
+  <data name="textBox19.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.9842525</value></data>
+  <data name="textBox19.Text" xml:space="preserve"><value>MODEL_SUFFIX5</value></data>
+  <data name="line8.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8984253</value></data>
+  <data name="line9.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8964568</value></data>
+  <data name="line2.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8925198</value></data>
+  <data name="line3.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.3586615</value></data>
+  <data name="label6.Text" xml:space="preserve"><value>Seq No</value></data>
+  <data name="label6.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8996063</value></data>
+  <data name="textBox18.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.6236224</value></data>
+  <data name="line1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.4775591</value></data>
+  <data name="textBox18.Text" xml:space="preserve"><value>000</value></data>
+  <data name="line6.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.0468504</value></data>
+  <data name="line7.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8964568</value></data>
+  <data name="line4.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.7925198</value></data>
+  <data name="line5.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.224804</value></data>
+  <data name="label10.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="label8.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="label8.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="label7.Text" xml:space="preserve"><value>Description</value></data>
+  <data name="label7.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9074804</value></data>
+  <data name="textBox13.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="shape1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.4728348</value></data>
+  <data name="txtWO_QUANTITY1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3543303</value></data>
+  <data name="txtWO_QUANTITY1.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="label4.Text" xml:space="preserve"><value>Carrier ID</value></data>
+  <data name="label4.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3366142</value></data>
+  <data name="line4.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>7.1822834</value></data>
+  <data name="label5.Text" xml:space="preserve"><value>To Locator Group</value></data>
+  <data name="label5.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3484252</value></data>
+  <data name="txtWORKER_ORDER1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="label9.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="textBox15.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.643701</value></data>
+  <data name="textBox15.Text" xml:space="preserve"><value>WORKER_ORDER4</value></data>
+  <data name="label1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.9582678</value></data>
+  <data name="label1.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="txtMODEL_SUFFIX1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.9842525</value></data>
+  <data name="txtMODEL_SUFFIX1.Text" xml:space="preserve"><value>MODEL_SUFFIX1</value></data>
+  <data name="textBox14.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.9842525</value></data>
+  <data name="textBox14.Text" xml:space="preserve"><value>MODEL_SUFFIX4</value></data>
+  <data name="txtLOCATOR_GROUP.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24685036</value></data>
+  <data name="textBox17.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="textBox17.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox19.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox19.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6397636</value></data>
+  <data name="label8.Text" xml:space="preserve"><value>Part No</value></data>
+  <data name="label8.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9074804</value></data>
+  <data name="textBox8.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="label8.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="label9.Text" xml:space="preserve"><value>PST</value></data>
+  <data name="label9.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9114175</value></data>
+  <data name="txtTOTAL_QUANTITY.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.6299213</value></data>
+  <data name="txtPART_NO.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="txtPART_NO.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5381888</value></data>
+  <data name="textBox10.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.643701</value></data>
+  <data name="textBox10.Text" xml:space="preserve"><value>WORKER_ORDER3</value></data>
+  <data name="shape2.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.0468504</value></data>
+  <data name="shape1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.023622047</value></data>
+  <data name="textBox13.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.6236224</value></data>
+  <data name="textBox13.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox3.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="line12.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.6059058</value></data>
+  <data name="textBox7.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="textBox12.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="textBox12.Text" xml:space="preserve"><value>000</value></data>
+  <data name="textBox10.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="line10.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8866143</value></data>
+  <data name="txtPROD_SEQ_FROM1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtPrintedDate.Text" xml:space="preserve"><value>PRINTED_DATE</value></data>
+  <data name="txtPrintedDate.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5118115</value></data>
+  <data name="label1.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="txtLINE.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24685036</value></data>
+  <data name="line13.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.607087</value></data>
+  <data name="textBox15.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="textBox4.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox8.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="line11.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.6059058</value></data>
+  <data name="$this.Script" xml:space="preserve"><value>public void GFOrderID_BeforePrint()
+{
+//((TextBox)rpt.Sections["GFOrderID"].Controls["txtTotal"]).Value = (System.Double)((TextBox)rpt.Sections["GFOrderID"].Controls["txtFreight"]).Value + (System.Double)((TextBox)rpt.Sections["GFOrderID"].Controls["txtSubTotal"]).Value;
+}
+
+
+
+public void Detail_Format()
+{
+	
+}
+
+
+public void Detail_BeforePrint()
+{
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY1.Text))
+	{ lblB1.Visible = true; }
+	else
+	{ lblB1.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY2.Text))
+	{ lblB2.Visible = true; }
+	else
+	{ lblB2.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY3.Text))
+	{ lblB3.Visible = true; }
+	else
+	{ lblB3.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY4.Text))
+	{ lblB4.Visible = true; }
+	else
+	{ lblB4.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY5.Text))
+	{ lblB5.Visible = true; }
+	else
+	{ lblB5.Visible = false; }
+
+}
+
+
+</value></data>
+  <data name="txtCARRIER_ID.Text" xml:space="preserve"><value>CARRIER_ID</value></data>
+  <data name="txtCARRIER_ID.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3366142</value></data>
+  <data name="txtWO_QUANTITY3.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="label5.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="barcode.Text" xml:space="preserve"><value>barcod</value></data>
+  <data name="barcode.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.6633863</value></data>
+  <data name="textBox18.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY5.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="txtWO_QUANTITY5.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433027</value></data>
+  <data name="txtTOTAL_SEQ_NO.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.9492128</value></data>
+  <data name="txtTOTAL_SEQ_NO.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 15.75pt; font-weight: bold; text-align: center; vertical-align: middle; ddo-font-vertical: none</value></data>
+  <data name="txtINSPECTION_FLAG.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5118111</value></data>
+  <data name="line12.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.0039367676</value></data>
+  <data name="textBox12.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB5.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0405512</value></data>
+  <data name="textBox12.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3751967</value></data>
+  <data name="lblB4.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8240157</value></data>
+  <data name="lblB1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1574804</value></data>
+  <data name="lblB3.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6035433</value></data>
+  <data name="label5.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="lblB2.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.3791337</value></data>
+  <data name="label5.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="lblB5.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox15.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8980318</value></data>
+  <data name="line1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.3062997</value></data>
+  <data name="textBox15.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="label2.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="label2.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="shape2.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.422614</value></data>
+  <data name="label12.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.20866139</value></data>
+  <data name="txtPROD_SEQ_FROM1.Text" xml:space="preserve"><value>000</value></data>
+  <data name="txtPROD_SEQ_FROM1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="textBox7.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox14.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="lblB1.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox19.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY5.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtSheetID.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.22204702</value></data>
+  <data name="txtWORKER_ORDER1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtTOTAL_SEQ_NO.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="label15.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.20236196</value></data>
+  <data name="txtTOTAL_SEQ_NO.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.09921263</value></data>
+  <data name="line8.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.6059058</value></data>
+  <data name="label4.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="txtWO_QUANTITY2.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="line9.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.0759845</value></data>
+  <data name="textBox15.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtDESCRIPTION.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.63504</value></data>
+  <data name="line8.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.3291337</value></data>
+  <data name="txtDESCRIPTION.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 14.25pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="label13.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.88267696</value></data>
+  <data name="line4.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="label13.Style" xml:space="preserve"><value>font-size: 9.75pt; text-align: center</value></data>
+  <data name="barcode.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8104167</value></data>
+  <data name="label9.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="label9.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="txtWO_QUANTITY2.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433027</value></data>
+  <data name="txtWO_QUANTITY2.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="line2.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.32559058</value></data>
+  <data name="line13.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.0039367676</value></data>
+  <data name="txtPST.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.917323</value></data>
+  <data name="txtPROD_SEQ_TO1.Text" xml:space="preserve"><value>000</value></data>
+  <data name="txtPROD_SEQ_TO1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.6236224</value></data>
+  <data name="line5.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>7.1822834</value></data>
+  <data name="label1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629922</value></data>
+  <data name="txtMODEL_SUFFIX1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="label6.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="txtTOTAL_QUANTITY.Text" xml:space="preserve"><value>TOTAL_QUANTITY</value></data>
+  <data name="txtTOTAL_QUANTITY.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3326772</value></data>
+  <data name="label6.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="line3.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.32559058</value></data>
+  <data name="label12.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="txtINSPECTION_FLAG.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.2</value></data>
+  <data name="line12.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0090556</value></data>
+  <data name="line2.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>7.1822834</value></data>
+  <data name="line10.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.0468504</value></data>
+  <data name="line13.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1232287</value></data>
+  <data name="line11.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.5720474</value></data>
+  <data name="line1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="textBox18.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="line1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.32559058</value></data>
+  <data name="textBox18.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433054</value></data>
+  <data name="label13.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.20866139</value></data>
+  <data name="line6.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.6318903</value></data>
+  <data name="txtMODEL_SUFFIX1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6397636</value></data>
+  <data name="line7.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.9842525</value></data>
+  <data name="txtSheetID.Text" xml:space="preserve"><value>SHEET_ID</value></data>
+  <data name="txtSheetID.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>5.1342525</value></data>
+  <data name="txtMODEL_SUFFIX1.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox12.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="shape2.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>7.1858273</value></data>
+  <data name="line4.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.32559058</value></data>
+  <data name="label2.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="txtDESCRIPTION.Text" xml:space="preserve"><value>DESCRIPTION</value></data>
+  <data name="txtDESCRIPTION.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9350394</value></data>
+  <data name="line5.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.32559058</value></data>
+  <data name="txtWO_QUANTITY2.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox3.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="lblB2.Style" xml:space="preserve"><value>font-size: 11.25pt; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB2.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24724388</value></data>
+  <data name="txtPST.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9153545</value></data>
+  <data name="txtPST.Text" xml:space="preserve"><value>2019-01-30 PM  12:12:11</value></data>
+  <data name="textBox14.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="txtWORKER_ORDER1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.643701</value></data>
+  <data name="txtWORKER_ORDER1.Text" xml:space="preserve"><value>WORKER_ORDER1</value></data>
+  <data name="line2.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="line11.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.9019682</value></data>
+  <data name="label12.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.0086612</value></data>
+  <data name="label12.Style" xml:space="preserve"><value>font-size: 9.75pt; text-align: center</value></data>
+  <data name="textBox5.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtLINE.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.16811025</value></data>
+  <data name="label17.Style" xml:space="preserve"><value>font-family: Arial; font-size: 9pt; font-weight: normal; vertical-align: middle</value></data>
+  <data name="txtLOCATOR_GROUP.Text" xml:space="preserve"><value>LOCATOR_GROUP</value></data>
+  <data name="txtLOCATOR_GROUP.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3326772</value></data>
+  <data name="label17.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.0149609</value></data>
+  <data name="txtINSPECTION_FLAG.Text" xml:space="preserve"><value>INSPECTION_FLAG</value></data>
+  <data name="txtINSPECTION_FLAG.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9271654</value></data>
+  <data name="txtDESCRIPTION.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtPART_NO.Text" xml:space="preserve"><value>PART_NO</value></data>
+  <data name="txtPART_NO.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.0236223</value></data>
+  <data name="txtPART_NO.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.0629922</value></data>
+  <data name="txtPART_NO.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.25708658</value></data>
+  <data name="txtPROD_SEQ_FROM1.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="txtPROD_SEQ_FROM1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3751967</value></data>
+  <data name="lblB2.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="txtCARRIER_ID.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.4649608</value></data>
+  <data name="textBox14.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6397636</value></data>
+  <data name="line6.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="textBox14.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="label3.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="label3.Style" xml:space="preserve"><value>font-size: 6.75pt</value></data>
+  <data name="txtPROD_SEQ_TO1.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433054</value></data>
+  <data name="txtPROD_SEQ_TO1.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox2.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtDESCRIPTION.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.5838584</value></data>
+  <data name="textBox12.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="lblB3.Style" xml:space="preserve"><value>font-size: 11.25pt; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB3.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24724388</value></data>
+  <data name="txtDESCRIPTION.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.2625981</value></data>
+  <data name="lblB5.Text" xml:space="preserve"><value>~</value></data>
+  <data name="lblB5.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.3960633</value></data>
+  <data name="line10.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="txtPROD_SEQ_TO1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtPrintedDate.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.2472441</value></data>
+  <data name="textBox2.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtCARRIER_ID.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.538189</value></data>
+  <data name="txtCARRIER_ID.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="lblB4.Text" xml:space="preserve"><value>~</value></data>
+  <data name="lblB4.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.3960633</value></data>
+  <data name="textBox7.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3751967</value></data>
+  <data name="textBox7.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="label9.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="lblB1.Text" xml:space="preserve"><value>~</value></data>
+  <data name="lblB1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.3960633</value></data>
+  <data name="txtTOTAL_SEQ_NO.Text" xml:space="preserve"><value>TOTAL_SEQ_NO</value></data>
+  <data name="txtTOTAL_SEQ_NO.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.3968506</value></data>
+  <data name="textBox2.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox2.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3751967</value></data>
+  <data name="label11.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox4.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="lblB3.Text" xml:space="preserve"><value>~</value></data>
+  <data name="lblB3.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.396064</value></data>
+  <data name="txtPrintedDate.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.6748035</value></data>
+  <data name="textBox20.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>6.643701</value></data>
+  <data name="textBox20.Text" xml:space="preserve"><value>WORKER_ORDER5</value></data>
+  <data name="txtPrintedDate.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 11.25pt; font-weight: normal; text-align: left; vertical-align: middle</value></data>
+  <data name="txtMADE_BY.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle; ddo-font-vertical: true</value></data>
+  <data name="txtTOTAL_QUANTITY.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.542126</value></data>
+  <data name="txtINSPECTION_FLAG.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtMADE_BY.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1649609</value></data>
+  <data name="txtTOTAL_QUANTITY.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 12pt; font-weight: bold; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox20.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox20.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8669291</value></data>
+  <data name="txtTOTAL_SEQ_NO.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.33543307</value></data>
+  <data name="lblB2.Text" xml:space="preserve"><value>~</value></data>
+  <data name="lblB2.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>4.3960633</value></data>
+  <data name="txtLOCATOR_GROUP.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.9173228</value></data>
+  <data name="label15.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox9.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY3.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433027</value></data>
+  <data name="txtWO_QUANTITY3.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox10.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox10.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.8669291</value></data>
+  <data name="label7.Style" xml:space="preserve"><value>font-family: Arial; font-size: 6.75pt</value></data>
+  <data name="label7.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.95826805</value></data>
+  <data name="lblB3.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="label5.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="txtMODEL_SUFFIX1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1653544</value></data>
+  <data name="txtWO_QUANTITY3.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtPROD_SEQ_FROM1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.1574805</value></data>
+  <data name="line3.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>7.1822834</value></data>
+  <data name="txtCARRIER_ID.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24685033</value></data>
+  <data name="line9.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.329134</value></data>
+  <data name="txtWO_QUANTITY5.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="line5.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="label17.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.20236196</value></data>
+  <data name="label2.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.47755915</value></data>
+  <data name="label3.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.926378</value></data>
+  <data name="label1.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.06811024</value></data>
+  <data name="label6.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.06811023</value></data>
+  <data name="label7.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.48543316</value></data>
+  <data name="txtWO_QUANTITY1.Text" xml:space="preserve"><value>WO_QUANTITY1</value></data>
+  <data name="label4.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.3555119</value></data>
+  <data name="txtWO_QUANTITY1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.657087</value></data>
+  <data name="label5.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8122048</value></data>
+  <data name="label8.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.926378</value></data>
+  <data name="label9.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.8122048</value></data>
+  <data name="label3.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="line8.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="txtWO_QUANTITY2.Text" xml:space="preserve"><value>WO_QUANTITY2</value></data>
+  <data name="txtWO_QUANTITY2.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.657087</value></data>
+  <data name="shape2.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.32322836</value></data>
+  <data name="textBox5.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY3.Text" xml:space="preserve"><value>WO_QUANTITY3</value></data>
+  <data name="txtWO_QUANTITY3.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.657087</value></data>
+  <data name="txtLINE.Text" xml:space="preserve"><value>LINE</value></data>
+  <data name="txtLINE.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3366142</value></data>
+  <data name="label6.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="line3.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0</value></data>
+  <data name="txtWO_QUANTITY4.Text" xml:space="preserve"><value>WO_QUANTITY3</value></data>
+  <data name="txtWO_QUANTITY4.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.657087</value></data>
+  <data name="txtPST.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.30748028</value></data>
+  <data name="label4.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox3.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="txtWO_QUANTITY5.Text" xml:space="preserve"><value>WO_QUANTITY3</value></data>
+  <data name="txtWO_QUANTITY5.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>3.657087</value></data>
+  <data name="textBox3.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433054</value></data>
+  <data name="textBox10.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="line6.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.1779528</value></data>
+  <data name="lblB4.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.24724388</value></data>
+  <data name="txtWO_QUANTITY4.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="lblB4.Style" xml:space="preserve"><value>font-size: 11.25pt; text-align: center; vertical-align: middle</value></data>
+  <data name="shape1.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.3051181</value></data>
+  <data name="textBox20.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox19.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="label8.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.15629925</value></data>
+  <data name="lblB5.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtMODEL_SUFFIX1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="txtMADE_BY.Text" xml:space="preserve"><value>MADE_BY</value></data>
+  <data name="txtMADE_BY.Left" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.56338584</value></data>
+  <data name="txtMADE_BY.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>1.0629922</value></data>
+  <data name="lblB4.HyperLink" type="System.Resources.ResXNullRef, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value /></data>
+  <data name="textBox8.Style" xml:space="preserve"><value>background-color: Transparent; font-size: 9.75pt; font-weight: normal; text-align: center; vertical-align: middle</value></data>
+  <data name="textBox8.Width" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.35433054</value></data>
+  <data name="textBox17.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110237</value></data>
+  <data name="txtPROD_SEQ_FROM1.Height" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>0.18110235</value></data>
+  <data name="txtWO_QUANTITY1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtSheetID.Top" type="System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"><value>2.2590554</value></data>
+  <data name="textBox13.OutputFormat" xml:space="preserve"><value /></data>
+  </root>

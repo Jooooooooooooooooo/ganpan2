@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="txtMADE_BY.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox17.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox8.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox3.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox10.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtPROD_SEQ_FROM1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox4.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="$this.Script" xml:space="preserve"><value>public void detail_BeforePrint()
+{
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY1.Text))
+	{ lblB1.Visible = true; }
+	else
+	{ lblB1.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY2.Text))
+	{ lblB2.Visible = true; }
+	else
+	{ lblB2.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY3.Text))
+	{ lblB3.Visible = true; }
+	else
+	{ lblB3.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY4.Text))
+	{ lblB4.Visible = true; }
+	else
+	{ lblB4.Visible = false; }
+
+	if (!string.IsNullOrEmpty(txtWO_QUANTITY5.Text))
+	{ lblB5.Visible = true; }
+	else
+	{ lblB5.Visible = false; }	
+}
+
+
+</value></data>
+  <data name="txtWO_QUANTITY3.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox18.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox7.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox14.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox19.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWORKER_ORDER1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtTOTAL_SEQ_NO.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox15.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtMODEL_SUFFIX1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY2.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtDESCRIPTION.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox2.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox12.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtPROD_SEQ_TO1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtINSPECTION_FLAG.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox9.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY5.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox5.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY4.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox20.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="txtWO_QUANTITY1.OutputFormat" xml:space="preserve"><value /></data>
+  <data name="textBox13.OutputFormat" xml:space="preserve"><value /></data>
+  </root>

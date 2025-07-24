@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>MCS.PrintBoard</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net452</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="MCS.PrintBoard.exe.licenses" />
+    <EmbeddedResource Include="MCS.PrintBoard.exe.licenses" LogicalName="MCS.PrintBoard.exe.licenses" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Data" />
+    <Reference Include="MCS.Common">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\MCS.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="GrapeCity.ActiveReports.v12">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\GrapeCity.ActiveReports.v12.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="GrapeCity.ActiveReports.Viewer.Win.v12">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\GrapeCity.ActiveReports.Viewer.Win.v12.dll</HintPath>
+    </Reference>
+    <Reference Include="LGCNS.ezMES.HTML5.Common">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\LGCNS.ezMES.HTML5.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="FarPoint.Win.Spread">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\FarPoint.Win.Spread.dll</HintPath>
+    </Reference>
+    <Reference Include="CheckBoxComboBox">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\CheckBoxComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="GrapeCity.ActiveReports.Document.v12">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\GrapeCity.ActiveReports.Document.v12.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="FarPoint.Win">
+      <HintPath>새 폴더\임시간판출력_20210311_02 (2) 압축의 압축\FarPoint.Win.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

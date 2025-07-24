@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmDecantMakeCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmDecantPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmLocatorGroupTree_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmLocator_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOffLinePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOffLinePrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOnLinePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOnLinePrintEdit_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOnLinePrintNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOnLinePrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOnLinePrintSplit_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOrgSave_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOutsideIssueList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmOutsideIssuePreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmQtyChangePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\frmQtyChangePrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\OfflineBoard_NV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard.PrintBoard\OutsideIssueList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\OfflineBoard_CNZ.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\OfflineBoard_VerticalA4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\OfflineBoard_VerticalSize.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\OfflinePrintBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\OfflinePrintBoard_GsrmSize.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\OnLineBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MCS.PrintBoard\QtyChangePrint.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmDecantMakeCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmDecantPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmLocatorGroupTree_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmLocator_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOffLinePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOffLinePrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOnLinePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOnLinePrintEdit_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOnLinePrintNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOnLinePrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOnLinePrintSplit_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOrgSave_P.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOutsideIssueList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmOutsideIssuePreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmQtyChangePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\frmQtyChangePrintPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\OfflineBoard_NV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard.PrintBoard\OutsideIssueList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\OfflineBoard_CNZ.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\OfflineBoard_VerticalA4.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\OfflineBoard_VerticalSize.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\OfflinePrintBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\OnLineBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\MCS.PrintBoard\QtyChangePrint.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\임시간판출력_20210311_02 %282%29 압축의 압축\PrintBoard\OfflineBoard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="새 폴더\임시간판출력_20210311_02 %282%29 압축의 압축\PrintBoard\OfflineBoard_GsrmSize.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
