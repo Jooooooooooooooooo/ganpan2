@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "COVimkVxyME=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\새 폴더\\MCS.PrintBoard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
